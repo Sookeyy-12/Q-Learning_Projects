@@ -1,18 +1,13 @@
-## FrozenLake-v1
+# FrozenLake-v1
 
-### 0% Training
+## 0% Training - Agent takes random actions
 
-<p align="center">
-<img src="https://veed.io/view/eea88f4c-a598-4fe7-9275-2753d71f7018", height=200px, width = 200px>
-</p>
+<img width="300" src="https://github.com/Sookeyy-12/Q-Learning_Projects/assets/82956207/a4c5fbad-a4b3-404f-a723-4221e7e22dde.gif" />
 
-### 50% Training
+## 50% Training  - Agent utilizes both exploration and exploitation
 
-<p align="center">
-<img src="https://veed.io/view/eea88f4c-a598-4fe7-9275-2753d71f7018", height=100px, width = 100px>
-</p>
+<img width="300" src="https://github.com/Sookeyy-12/Q-Learning_Projects/assets/82956207/f5fa0438-67fa-4682-8155-7a4808d8426c.gif" />
 
-### 100% Training
-<p align="center">
-<iframe src="https://www.veed.io/embed/6d3510c4-e6ed-400d-9461-2daafefd0c9c" width="744" height="504" frameborder="0" title="training399999" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</p>
+## 100% Training - Agent uses exploitation
+
+<img width="300" src="https://github.com/Sookeyy-12/Q-Learning_Projects/assets/82956207/e08fc16b-93f8-4b37-985c-4db1f4b9c856.gif" />
